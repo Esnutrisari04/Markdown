@@ -1,9 +1,13 @@
-# Definisi
-Markdown adalah bahasa markup yang ringan dan mudah digunakan untuk menformat teks, biasanya
-markdown digunakan untuk membuat dokumen terformat dengan cara yang sederhana dan mudah di baca, bahkan
-dalam bentuk teks mentah.
+# MARKDOWN
 
-# Kelebihan
-Markdown memungkinkan penulis untuk menggunakan format teks biasa yang kemudian dapat dikonversi menjadi
-HTML yang valid.
+## Definisi:
+Markdown adalah bahasa markup yang ringan dan mudah digunakan untuk menformat teks, biasanya markdown digunakan untuk membuat dokumen terformat dengan cara yang sederhana dan mudah di baca, bahkan
+dalam bentuk teks mentah. bahasa markup ini dirancang agar bisa dikonversi menjadi HTML dan banyak format lainnya menggunakan alat yang memiliki nama yang serupa.
+
+## Sejarah
+### Penciptaan:
+pada tahun `2024`, John Gruber menciptakan bahasa markdown berkerja sama dengan Aaron Swartz pada waktu itu tujuannya adalah memungkinkan orang menulis menggunakan format teks polos yang mudah dibaca, mudah untuk ditulis, dan secara opsional mengubahnya menjadi XHTML (atau HTML) yang valid secara struktural.
+
+### Inspirasi: 
+Gruber terinspirasi oleh konvensi yang ada untuk menandai teks biasa dalam email. Dia ingin menciptakan sesuatu yang mudah dibaca tanpa terlihat seperti ditandai dengan tag atau instruksi pemformatan, berbeda dengan bahasa markah lainnya seperti Rich Text Format (RTF) atau HTML
 
