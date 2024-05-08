@@ -6,7 +6,7 @@ Official repositori pembelajaran penggunaan bahasa markdown
 - Installation
 - Lisence
 
-## Project Deskription
+## Project Description
 Repository ini berisi pembelajaran bahasa Markdown bagi pemula
 
 ## Installation
