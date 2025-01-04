@@ -3,8 +3,7 @@ marp: true
 ---
 
 # Bagian 5 - Belajar membuat list
-
-### Pada bagian ini kita akan belajar lagi tentang markdown untuk membuat list dengan menggunakan bakasa markdown, list disini adalah jika anda terbiasa dengan _microsoft word_ biasa disebut dengan `Bullet & Numbering` untuk membuat list di markdown diatur menjadi beberapa fungsi yaitu antara lain:
+Pada bagian ini kita akan belajar lagi tentang markdown untuk membuat list dengan menggunakan bakasa markdown, list disini adalah jika anda terbiasa dengan _microsoft word_ biasa disebut dengan `Bullet & Numbering` untuk membuat list di markdown diatur menjadi beberapa fungsi yaitu antara lain:
 
 - Order List (daftar list yang berurutan angkanya)
 
