@@ -9,7 +9,7 @@ Pada bagian ini kita akan belajar lagi tentang markdown untuk membuat list denga
 
 Di markdown untuk membuat order list cukup dengan kata dimulai dengan angka 1 lalu diikuti dengan tanda titik (1.) sedangkan untuk nomor berikutnya lakukan hal yang sama (1.) kembali maka markdown akan secara otomatis membuat angka 2 pada list berikutnya
 
-#### CONTOH
+CONTOH
 
     ORDER LIST
 
