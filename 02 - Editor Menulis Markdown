@@ -1,0 +1,33 @@
+# Editor untuk Menulis Markdown
+
+Ada banyak sekali software atau editor untuk menulis markdown. untuk pilihan editor cukup banyak berdasarkan masing masing sistem operasi yang digunakan berikut ini adalah daftar editor markdown berdasarkan masing-masing sistem operasi, silahkan pilih sesuai kesukaan anda:
+
+- Markdown Editor di Mac OSX
+    * Mou - Free
+    * iA Writter - $19.99
+    * Desk - $29.99
+    * By Word - $11.99
+    * Day One - $9.99
+    * SublimeText - $70
+
+- Markdown Editor di Windows
+    * WriteMonkey - Free
+    * MarkdownPad - Free + $14.99 Pro version
+    * Texts - $14.50
+    * SublimeText - $70
+
+- Markdown Editor di Linux
+    * Remarkable - Free
+    * Haroopad - Free
+    * ReText - Free
+    * UberWriter
+    * Mark My WOrds
+
+Pilih yang mana?
+
+saya sendiri memilih VS Code dengan plug-in Markdownlint
+
+# File Markdown
+File markdown dapat kita simpan dengan ekstensi `.markdown` atau `.md`
+
+contoh: `belajar-menulis.md` atau `belajar-menulis.markdown`
