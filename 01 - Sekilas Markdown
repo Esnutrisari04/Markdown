@@ -1,9 +1,7 @@
 ## WHAT IS MARKDOWN??
 
 Definisi
-Markdown adalah bahasa markup yang ringan dan mudah digunakan untuk menformat teks, 
-biasanya markdown digunakan untuk membuat dokumen terformat dengan cara yang sederhana dan mudah di baca, bahkan dalam bentuk teks mentah.
-bahasa markup ini dirancang agar bisa dikonversi menjadi HTML dan banyak format lainnya menggunakan alat yang memiliki nama yang serupa.
+Markdown adalah _(lightweight markup language)_ bahasa _markup_ yang lebih ringan dari HTML untuk _formatting_ teks.
 
 Sejarah
 - Penciptaan:
